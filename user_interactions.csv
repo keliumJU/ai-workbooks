@@ -1,0 +1,21 @@
+user_id,action,page,duration,status,timestamp
+1001,click,homepage,45,success,2026-04-14 10:15:23
+1002,scroll,products,120,success,2026-04-14 10:16:45
+1003,submit,checkout,90,success,2026-04-14 10:18:12
+1004,click,cart,30,success,2026-04-14 10:19:33
+1005,search,results,75,failure,2026-04-14 10:21:07
+1006,view,product_detail,180,success,2026-04-14 10:22:41
+1007,login,dashboard,25,success,2026-04-14 10:24:19
+1008,logout,homepage,10,success,2026-04-14 10:25:55
+1009,click,banner,15,success,2026-04-14 10:27:02
+1010,download,report,300,success,2026-04-14 10:28:34
+1011,filter,search,60,success,2026-04-14 10:30:11
+1012,upload,profile,45,success,2026-04-14 10:32:48
+1013,share,article,20,success,2026-04-14 10:34:22
+1014,bookmark,product,35,success,2026-04-14 10:36:09
+1015,rate,review,40,success,2026-04-14 10:37:51
+1016,navigate,settings,55,success,2026-04-14 10:39:28
+1017,print,invoice,15,success,2026-04-14 10:41:03
+1018,export,data,240,success,2026-04-14 10:42:37
+1019,signup,registration,100,success,2026-04-14 10:44:12
+1020,verify,account,65,success,2026-04-14 10:46:00
